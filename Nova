@@ -1,8 +1,3 @@
-loadstring([[
---[[
-    Nova - Organic/Aftermath Script
-    Features: ESP, Chams, Anti-Aim, Attachment Exploit, Weapon ESP, Silent Aim, Aimbot, TriggerBot
-]]
 
 if not LPH_OBFUSCATED and not LPH_ENCNUM then
     local assert = assert
